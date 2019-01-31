@@ -33,14 +33,12 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return parseInt()
+  return parseInt('sldkjflksjf', 10)
 }
+
 function preserveDecimal(n) {
 return parseFloat('2.222');
 }
-
-
-
 
 function isNan(n) {
   return parseFloat('sldkjflksjf');

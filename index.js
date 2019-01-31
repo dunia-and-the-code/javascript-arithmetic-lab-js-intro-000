@@ -24,12 +24,12 @@ function dec(n) {
   return --n;
 }
 
-function makeInt(n) {
+function makeInt() {
 return parseInt('n', 10);
 }
 
 
-function preserveDecimal(n) {
+function preserveDecimal() {
 return parseFloat('2.222');
 }
 

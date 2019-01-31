@@ -28,9 +28,4 @@ function makeInt(n) {
 return parseInt('n', 10);
 }
 
-function makeInt(n) {
-return parseInt('105', 10);
-}
-
-parseInt('sldkjflksjf', 10)
 

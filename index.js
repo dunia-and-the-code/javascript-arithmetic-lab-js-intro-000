@@ -32,6 +32,7 @@ function makeInt(n) {
   return parseInt('0.2328', 10);
 }
 
+var n
 function makeInt(n) {
   return parseInt('sldkjflksjf', 10)
 }

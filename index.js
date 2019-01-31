@@ -42,5 +42,5 @@ return parseFloat('2.222');
 }
 
 function preserveDecimal(n) {
-  return ();
+  return parseFloat('sldkjflksjf');
 }

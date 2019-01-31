@@ -23,7 +23,7 @@ function dec(n) {
 }
 
 function makeInt() {
-return parseInt('n', 10);
+return parseInt('0.2328', 10);
 }
 
 

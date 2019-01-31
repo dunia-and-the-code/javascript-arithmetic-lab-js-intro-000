@@ -28,6 +28,7 @@ function makeInt(n) {
 return parseInt('n', 10);
 }
 
+console.log()
 function makeInt(n) {
   return parseInt('0.2328', 10);
 }

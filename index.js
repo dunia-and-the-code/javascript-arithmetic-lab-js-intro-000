@@ -29,7 +29,7 @@ return parseInt('n', 10);
 }
 
 function makeInt(n) {
-  return parseInt('2328', 10);
+  return parseInt('0.2328', 10);
 }
 
 function preserveDecimal(n) {

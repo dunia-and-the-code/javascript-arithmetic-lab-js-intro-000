@@ -32,6 +32,9 @@ function () {
   return ();
 }
 
+function () {
+  return ();
+}
 
 }
 function preserveDecimal(n) {

@@ -28,10 +28,6 @@ function makeInt(n) {
 return parseInt('n', 10);
 }
 
-n = '0x2328'
-
-console.log(makeInt('sldkjflksjf', 10));
-
 function preserveDecimal(n) {
 return parseFloat('2.222');
 }

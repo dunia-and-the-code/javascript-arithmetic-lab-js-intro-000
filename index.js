@@ -30,7 +30,7 @@ return parseInt('n', 10);
 
 console.log(makeInt('0x2328', 10));
 
-
+console.log(makeInt)
 function preserveDecimal(n) {
 return parseFloat('2.222');
 }

@@ -34,5 +34,5 @@ return parseFloat('2.222');
 }
 
 function isNan(n) {
-  return parseInt('sldkjflksjf', 10);
+  return parseFloat('sldkjflksjf');
 }

@@ -32,7 +32,7 @@ function makeInt(n) {
   return parseInt('0.2328', 10);
 }
 
-var n
+var n = 'sldkjflksjf'
 function makeInt(n) {
   return parseInt('sldkjflksjf', 10)
 }

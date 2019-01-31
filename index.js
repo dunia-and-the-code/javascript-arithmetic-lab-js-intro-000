@@ -29,7 +29,7 @@ return parseInt('n', 10);
 }
 
 function makeInt(n) {
-  return parseInt('0x2328', 10);
+  return parseInt('0.2328', 10);
 }
 
 function makeInt(n) {
